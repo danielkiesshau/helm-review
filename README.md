@@ -1,4 +1,4 @@
-# helm-lesson
+# helm-review
 
 A minimal, hands-on Helm chart (`webapp/`) deploying a stateless nginx web app —
 built step by step to learn core Helm chart mechanics: `Chart.yaml`, values,
